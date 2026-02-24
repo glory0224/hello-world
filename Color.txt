@@ -1,6 +1,5 @@
-1. green
-2. black
-3. 5range
-4. purple
-5. red
-
+1. Green
+2. Black
+3. Yellow
+4. Purple
+5. Red
